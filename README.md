@@ -1,3 +1,12 @@
+#Project Description
+The purpose of this research is to identify whether age, race and gender
+influence Nutrition intake in the American Population based on NHANES
+data. Nowadays fat becomes gradually popular. Therefore I analyze ten type
+of main nutrient impact by using 2014 the newest version NHANES data. I do
+Preprocessing data and Clustering with K-means analysis by using
+MapReduce programming model, Finally prompt a group of people to pay
+attention to there Nutrition Intake by analyzing k cluster center.
+
 # NHANES-Downloader
 Python script to download the entire NHANES dataset from the CDC website.
 Additionally, a script is provided to convert the downloaded file format (XPT)
